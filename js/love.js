@@ -93,7 +93,7 @@ function Next() {
 function startTypingAnimation() {
     const textElement = document.querySelector('.typing-text');
     const typingContainer = document.querySelector('.typing-container');
-    const message = "Səni çox sevirəm";
+    const message = "Səni çox sevirəm !";
     let i = 0;
     
     // Ürəyin son mövqeyini al və yazını onun altına yerləşdir
