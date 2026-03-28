@@ -33,7 +33,7 @@ body {
 }
 
 .body_left img {
-    width: 100%;
+    width: 150%;
     height: auto;
 }
 
@@ -204,7 +204,7 @@ body {
 /* Böyük ürəyin altında yazı - ürək yuxarı qalxdıqdan sonra mövqelənəcək */
 .typing-text {
     display: inline-block;
-    font-size: 4.5rem;
+    font-size: 4.2rem;
     font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', sans-serif;
     font-weight: 600;
     color: #c40908;
